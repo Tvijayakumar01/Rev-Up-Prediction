@@ -110,14 +110,6 @@ To further **enhance model performance**, we fine-tuned **Random Forest** using 
 
 ---
 
-## 🤝 **Want to Contribute?**  
-We welcome collaborations! Feel free to:  
-✔ **Fork the repository**  
-✔ **Raise issues & suggestions**  
-✔ **Submit pull requests**  
-
----
-
 ## 🏆 **Final Takeaway**  
 _"This project showcases how AI and machine learning can **revolutionize pricing strategies** in the used car market. By leveraging data science, we can bring **transparency, efficiency, and fairness** to car buying and selling."_ 🚀  
 
