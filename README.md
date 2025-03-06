@@ -98,18 +98,6 @@ Our **AI-powered car price prediction model** can be used in multiple sectors:
 
 ---
 
-## 🔧 **Model Optimization – Improving Accuracy**  
-To further **enhance model performance**, we fine-tuned **Random Forest** using **GridSearchCV**:
-
-📌 **Best Parameters Found:**  
-- `n_estimators=150` (Number of trees)  
-- `max_depth=10` (Tree depth)  
-- `min_samples_split=4` (Minimum samples per split)  
-
-✅ **Results:** Increased prediction accuracy by **5%**! 🚀  
-
----
-
 ## 🏆 **Final Takeaway**  
 _"This project showcases how AI and machine learning can **revolutionize pricing strategies** in the used car market. By leveraging data science, we can bring **transparency, efficiency, and fairness** to car buying and selling."_ 🚀  
 
